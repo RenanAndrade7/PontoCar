@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontoCar", "PontoCar\PontoCar.csproj", "{40A16F6C-4439-4F43-A52D-B8AC1DB6BA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A16F6C-4439-4F43-A52D-B8AC1DB6BA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A16F6C-4439-4F43-A52D-B8AC1DB6BA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A16F6C-4439-4F43-A52D-B8AC1DB6BA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A16F6C-4439-4F43-A52D-B8AC1DB6BA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBE93B0-D29D-4DBA-813F-74D25022F352}
+	EndGlobalSection
+EndGlobal
